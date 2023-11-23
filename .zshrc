@@ -1,5 +1,6 @@
-# zsh 
-alias zshrc="vi ~/.zshrc"
+# zsh
+alias rc="vi ~/.zshrc"
+alias urc="source ~/.zshrc" # update zshrc
 
 # vim
 alias vi="nvim"
