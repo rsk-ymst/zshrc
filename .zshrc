@@ -14,7 +14,7 @@ alias gs="git switch"
 alias gf="git fetch --all"
 alias gp="git pull"
 
-# docker compsoe
+# docker compose
 alias dc="docker compose"
 alias dcu="docker compose up -d"
 alias dcb="docker compose build"
